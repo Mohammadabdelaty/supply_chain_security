@@ -35,4 +35,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: json
-        path: spdx.json.xml
+        path: spdx.json
